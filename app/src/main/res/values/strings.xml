@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name ="programming_languages">
+        <item>C++</item>
+        <item>C#</item>
+        <item>Java</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>TypeScript</item>
+        <item>VisualStudio</item>
+    </string-array>
+
+    <string-array name ="description">
+
+        <item>This is C++ description </item>
+        <item>This is C# description </item>
+        <item>This is Java description </item>
+        <item>This is Javascript description </item>
+        <item>This is Kotlin description </item>
+        <item>This is Python description </item>
+        <item>This is Ruby description </item>
+        <item>This is Swift description </item>
+        <item>This is TypeScript description </item>
+        <item>This is VisualStudio description </item>
+
+    </string-array>
+</resources>
